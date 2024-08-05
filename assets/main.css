@@ -73,6 +73,16 @@ img {
 }
 
 /**
+* Header and Footer Logos
+*/
+
+.site-header picture, .footer-logo picture {
+  max-width: 70%;
+  margin: auto;
+  display: block;
+}
+
+/**
  * Figures
  */
 figure > img {

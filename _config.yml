@@ -31,8 +31,10 @@ product:
 tag-line: Understated Luxury
 shopify-url:
 etsy-url:
-primary-img-dark-scheme:
-primary-img-light-scheme:
+primary-img-dark-scheme: assets/img/Light_Transparent_1.png
+primary-img-light-scheme: assets/img/Dark_Transparent_1.png
+footer-img-dark-scheme: assets/img/Light_Transparent_2.png
+footer-img-light-scheme: assets/img/Dark_Transparent_2.png
 img-alt: Strathmere Leather - Understated Luxury. Luggage, bags, and accessories for the discerning traveler.
 main-video:
 
