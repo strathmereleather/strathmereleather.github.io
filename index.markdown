@@ -35,6 +35,8 @@ You may also be interested in the newly released [Ocean Front](https://theoceanf
 
 The newest smaller travel accessory, a **leather notebook case** called _The Jefferson_. I'm a rather prolific writer, always jotting something down somewhere, and this leather notebook case permits me to do so in an organized and rather fashionable manner :-) Learn more at [TheJeffersonCase.com](https://thejeffersoncase.com).
 
+Looking for a passport case? Well, look no further. Introducing **The Galileo Passport Case**, _Every Journey Begins Here_ -> [https://thegalileocase.com](https://thegalileocase.com) 🌎
+
 ---
 
 ## Product Updates
@@ -52,13 +54,6 @@ Just browsing? Add your email address below and I’ll keep you updated when I h
 > I’m doing a lackluster job at describing it, the design is still being worked on, but the functionality is pretty straight forward. Easy to access, yet secure, exterior pockets, a sturdy shoulder strap, a phone pocket that is simple to grab and go, an open top that can be shut using snap buttons (I’m quite opposed to zippers), a few suede interior pockets for sunglasses, keys, **The Jefferson**, a water bottle (kept in place using a few ideas I’m working on), etc. The bag dimensions will be approximately 11 inches across, 9 inches tall, ~5 inches in width. A perfectly sized wear it and go bag. 
 
 Source: <a href="https://backofthenapkin.blog/post/back-of-the-napkin-scribbles-vol-1" target="_blank" title="back of the napkin scribbles vol. 1">https://backofthenapkin.blog/post/back-of-the-napkin-scribbles-vol-1</a>
-
-### The Galileo
-> The Galileo, a passport case (actual tagline TBD). Like Galileo’s pioneering spirit, the passport case is built for practicality and durability while maintaining a sense of elegance and refinement. Galileo’s contributions to navigation and understanding the cosmos inspire the theme of international travel, making The Galileo not just a functional accessory, but a wave (bon voyage!) to the adventurous and curious traveler who values craftsmanship and precision. 
-
-> The Galileo will be made of 100% vegetable tanned leather and will be offered in two standard styles: drum-dyed veg-tan cowhide with Italian suede interior pockets, and hand-dyed calfskin inside and out. The interior of the passport case will feature two primary sections. Pockets on the left side of the case are designed to hold up to 4 cards/cash/etc. This side also features a "flap" pocket designed for easy access to boarding passes and tickets, and is also sized perfectly to store your International Driver Permit (IDP). The front of the case can be customized with a monogram for that extra personal touch. 
-
-Source: <a href="https://backofthenapkin.blog/post/first-look-the-galileo-passport-case" target="_blank" title="first look: The Galileo passport case">https://backofthenapkin.blog/post/first-look-the-galileo-passport-case</a>
 
 ---
 
