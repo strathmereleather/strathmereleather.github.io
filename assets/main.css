@@ -77,7 +77,7 @@ img {
 */
 
 .site-header picture, .footer-logo picture {
-  max-width: 70%;
+  max-width: 40%;
   margin: auto;
   display: block;
 }
