@@ -28,11 +28,14 @@ Whether you’re traveling across town or around the world, keep this sheepskin 
 - **Features**: Durable nickel hardware and magnetic clasps ensure easy access while keeping the tissues secure
 - **Pre-loaded Convenience**: Ships pre-loaded with 25 soft tissues, ready for use
 - **Capacity**: Comfortably holds up to 25 tissues
-- **Size**: Approximately 10 1/8 x 6 5/16 inches
+- **Size**: Approximately 10 1/8 x 6 1/2 inches
 - **Warranty**: Includes an unlimited lifetime warranty on leather craftsmanship (details [here](https://amaiken.com/pages/shipping-returns-and-warranty-information))
 
 Ideal for travel or as a unique addition to your everyday carry, this pouch is perfect for those who value quality, craftsmanship, and refined details.
 
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/117635/98c03038-06f9-408a-8432-fd7595541f45?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<br />
+<br />
 ![](assets/img/product-photos/accessories/sheepskin-tissue-pouch/natural/IMG_5631.jpeg)
 
 ![](assets/img/product-photos/accessories/sheepskin-tissue-pouch/natural/IMG_5633.jpeg)

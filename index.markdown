@@ -37,6 +37,8 @@ The newest smaller travel accessory, a **leather notebook case** called _The Jef
 
 Looking for a passport case? Well, look no further. Introducing **The Galileo Passport Case**, _Every Journey Begins Here_ -> [https://thegalileocase.com](https://thegalileocase.com) 🌎
 
+How about smaller **travel accessories** that make those trips so much better? [Browse my collection of leather travel accessories here](/accessories.html).
+
 ---
 
 ## Product Updates
